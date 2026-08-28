@@ -1,0 +1,121 @@
+arquivo,ecg_id,classe,sexo,idade,dispositivo,ano,fonte_hea,fonte_dat
+MI_00827.jpg,827,MI,M,59,AT-6 C 5.5,1987,https://physionet.org/files/ptb-xl/1.0.3/records500/00000/00827_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/00000/00827_hr.dat
+STTC_00872.jpg,872,STTC,M,82,AT-6     6,1987,https://physionet.org/files/ptb-xl/1.0.3/records500/00000/00872_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/00000/00872_hr.dat
+HYP_01004.jpg,1004,HYP,M,73,AT-6 C 5.5,1987,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01004_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01004_hr.dat
+STTC_01026.jpg,1026,STTC,F,78,AT-6     6,1987,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01026_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01026_hr.dat
+MI_01059.jpg,1059,MI,M,61,AT-6     6,1987,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01059_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01059_hr.dat
+NORM_01293.jpg,1293,NORM,F,27,CS-12   E,1988,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01293_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01293_hr.dat
+HYP_01307.jpg,1307,HYP,M,26,CS-12   E,1988,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01307_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01307_hr.dat
+HYP_01386.jpg,1386,HYP,M,66,AT-6 C 5.5,1988,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01386_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01386_hr.dat
+STTC_01456.jpg,1456,STTC,M,78,AT-6 C,1988,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01456_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01456_hr.dat
+NORM_01585.jpg,1585,NORM,F,47,AT-6     6,1988,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01585_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01585_hr.dat
+HYP_01611.jpg,1611,HYP,M,81,CS-12,1988,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01611_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01611_hr.dat
+NORM_01732.jpg,1732,NORM,F,53,CS-12   E,1988,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01732_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01732_hr.dat
+HYP_01745.jpg,1745,HYP,F,71,CS-12,1988,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01745_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01745_hr.dat
+HYP_01851.jpg,1851,HYP,F,79,AT-6 C 5.5,1988,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01851_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01851_hr.dat
+CD_01995.jpg,1995,CD,F,72,AT-6     6,1988,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01995_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/01000/01995_hr.dat
+NORM_02130.jpg,2130,NORM,M,64,AT-6     6,1988,https://physionet.org/files/ptb-xl/1.0.3/records500/02000/02130_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/02000/02130_hr.dat
+NORM_02226.jpg,2226,NORM,F,56,AT-6 C 5.5,1988,https://physionet.org/files/ptb-xl/1.0.3/records500/02000/02226_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/02000/02226_hr.dat
+HYP_02417.jpg,2417,HYP,F,78,CS-12,1989,https://physionet.org/files/ptb-xl/1.0.3/records500/02000/02417_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/02000/02417_hr.dat
+CD_02818.jpg,2818,CD,F,82,CS-12,1989,https://physionet.org/files/ptb-xl/1.0.3/records500/02000/02818_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/02000/02818_hr.dat
+MI_02844.jpg,2844,MI,F,38,AT-6 C 5.5,1989,https://physionet.org/files/ptb-xl/1.0.3/records500/02000/02844_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/02000/02844_hr.dat
+STTC_02886.jpg,2886,STTC,F,82,CS-12,1989,https://physionet.org/files/ptb-xl/1.0.3/records500/02000/02886_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/02000/02886_hr.dat
+STTC_03078.jpg,3078,STTC,F,51,CS-12   E,1989,https://physionet.org/files/ptb-xl/1.0.3/records500/03000/03078_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/03000/03078_hr.dat
+MI_03173.jpg,3173,MI,F,77,AT-6 C 5.5,1989,https://physionet.org/files/ptb-xl/1.0.3/records500/03000/03173_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/03000/03173_hr.dat
+HYP_03853.jpg,3853,HYP,F,81,AT-6 C 5.5,1990,https://physionet.org/files/ptb-xl/1.0.3/records500/03000/03853_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/03000/03853_hr.dat
+NORM_04159.jpg,4159,NORM,M,39,CS-12,1990,https://physionet.org/files/ptb-xl/1.0.3/records500/04000/04159_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/04000/04159_hr.dat
+MI_04166.jpg,4166,MI,M,31,CS-12   E,1990,https://physionet.org/files/ptb-xl/1.0.3/records500/04000/04166_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/04000/04166_hr.dat
+HYP_04199.jpg,4199,HYP,M,85,CS-12,1990,https://physionet.org/files/ptb-xl/1.0.3/records500/04000/04199_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/04000/04199_hr.dat
+CD_04223.jpg,4223,CD,M,59,CS-12,1990,https://physionet.org/files/ptb-xl/1.0.3/records500/04000/04223_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/04000/04223_hr.dat
+HYP_04297.jpg,4297,HYP,F,65,AT-6 C 5.5,1990,https://physionet.org/files/ptb-xl/1.0.3/records500/04000/04297_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/04000/04297_hr.dat
+CD_04415.jpg,4415,CD,M,68,AT-6     6,1990,https://physionet.org/files/ptb-xl/1.0.3/records500/04000/04415_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/04000/04415_hr.dat
+NORM_04420.jpg,4420,NORM,M,81,AT-6 C 5.5,1990,https://physionet.org/files/ptb-xl/1.0.3/records500/04000/04420_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/04000/04420_hr.dat
+MI_04561.jpg,4561,MI,M,84,AT-60    3,1990,https://physionet.org/files/ptb-xl/1.0.3/records500/04000/04561_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/04000/04561_hr.dat
+MI_04915.jpg,4915,MI,M,75,CS-12,1990,https://physionet.org/files/ptb-xl/1.0.3/records500/04000/04915_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/04000/04915_hr.dat
+STTC_04964.jpg,4964,STTC,F,70,AT-6 C 5.5,1990,https://physionet.org/files/ptb-xl/1.0.3/records500/04000/04964_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/04000/04964_hr.dat
+STTC_05120.jpg,5120,STTC,F,80,CS-12,1990,https://physionet.org/files/ptb-xl/1.0.3/records500/05000/05120_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/05000/05120_hr.dat
+MI_05159.jpg,5159,MI,M,78,CS-12,1990,https://physionet.org/files/ptb-xl/1.0.3/records500/05000/05159_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/05000/05159_hr.dat
+CD_05303.jpg,5303,CD,M,34,CS-12,1990,https://physionet.org/files/ptb-xl/1.0.3/records500/05000/05303_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/05000/05303_hr.dat
+NORM_05609.jpg,5609,NORM,F,18,CS-12   E,1991,https://physionet.org/files/ptb-xl/1.0.3/records500/05000/05609_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/05000/05609_hr.dat
+NORM_05834.jpg,5834,NORM,F,73,AT-6 C 5.5,1991,https://physionet.org/files/ptb-xl/1.0.3/records500/05000/05834_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/05000/05834_hr.dat
+NORM_05928.jpg,5928,NORM,F,41,CS-12   E,1991,https://physionet.org/files/ptb-xl/1.0.3/records500/05000/05928_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/05000/05928_hr.dat
+STTC_05997.jpg,5997,STTC,M,89,AT-6     6,1991,https://physionet.org/files/ptb-xl/1.0.3/records500/05000/05997_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/05000/05997_hr.dat
+STTC_06081.jpg,6081,STTC,M,37,CS-12   E,1991,https://physionet.org/files/ptb-xl/1.0.3/records500/06000/06081_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/06000/06081_hr.dat
+MI_06120.jpg,6120,MI,M,62,AT-6 C 5.5,1991,https://physionet.org/files/ptb-xl/1.0.3/records500/06000/06120_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/06000/06120_hr.dat
+STTC_06122.jpg,6122,STTC,F,76,AT-6 C 5.5,1991,https://physionet.org/files/ptb-xl/1.0.3/records500/06000/06122_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/06000/06122_hr.dat
+NORM_06149.jpg,6149,NORM,F,55,CS-12   E,1991,https://physionet.org/files/ptb-xl/1.0.3/records500/06000/06149_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/06000/06149_hr.dat
+NORM_06165.jpg,6165,NORM,M,57,CS-12,1991,https://physionet.org/files/ptb-xl/1.0.3/records500/06000/06165_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/06000/06165_hr.dat
+HYP_06511.jpg,6511,HYP,F,69,AT-6 C 5.5,1991,https://physionet.org/files/ptb-xl/1.0.3/records500/06000/06511_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/06000/06511_hr.dat
+HYP_06554.jpg,6554,HYP,F,78,AT-6     6,1991,https://physionet.org/files/ptb-xl/1.0.3/records500/06000/06554_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/06000/06554_hr.dat
+CD_06602.jpg,6602,CD,M,78,AT-6 C 5.5,1991,https://physionet.org/files/ptb-xl/1.0.3/records500/06000/06602_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/06000/06602_hr.dat
+CD_06607.jpg,6607,CD,M,71,AT-6     6,1991,https://physionet.org/files/ptb-xl/1.0.3/records500/06000/06607_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/06000/06607_hr.dat
+MI_06785.jpg,6785,MI,M,51,AT-6     6,1991,https://physionet.org/files/ptb-xl/1.0.3/records500/06000/06785_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/06000/06785_hr.dat
+STTC_07002.jpg,7002,STTC,M,52,CS-12,1991,https://physionet.org/files/ptb-xl/1.0.3/records500/07000/07002_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/07000/07002_hr.dat
+STTC_07005.jpg,7005,STTC,M,59,AT-6 C 5.5,1991,https://physionet.org/files/ptb-xl/1.0.3/records500/07000/07005_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/07000/07005_hr.dat
+MI_07317.jpg,7317,MI,F,82,CS-12,1991,https://physionet.org/files/ptb-xl/1.0.3/records500/07000/07317_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/07000/07317_hr.dat
+STTC_07794.jpg,7794,STTC,F,87,AT-6 C 5.5,1992,https://physionet.org/files/ptb-xl/1.0.3/records500/07000/07794_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/07000/07794_hr.dat
+MI_07825.jpg,7825,MI,M,87,AT-6 C 5.5,1992,https://physionet.org/files/ptb-xl/1.0.3/records500/07000/07825_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/07000/07825_hr.dat
+HYP_07963.jpg,7963,HYP,F,78,AT-6 C 5.8,1992,https://physionet.org/files/ptb-xl/1.0.3/records500/07000/07963_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/07000/07963_hr.dat
+HYP_08017.jpg,8017,HYP,F,72,AT-6 C 5.3,1992,https://physionet.org/files/ptb-xl/1.0.3/records500/08000/08017_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/08000/08017_hr.dat
+NORM_08053.jpg,8053,NORM,M,87,AT-6 C 5.5,1992,https://physionet.org/files/ptb-xl/1.0.3/records500/08000/08053_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/08000/08053_hr.dat
+STTC_08059.jpg,8059,STTC,M,70,CS-12,1992,https://physionet.org/files/ptb-xl/1.0.3/records500/08000/08059_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/08000/08059_hr.dat
+NORM_08183.jpg,8183,NORM,F,48,CS-12   E,1992,https://physionet.org/files/ptb-xl/1.0.3/records500/08000/08183_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/08000/08183_hr.dat
+CD_08666.jpg,8666,CD,M,60,CS-12,1992,https://physionet.org/files/ptb-xl/1.0.3/records500/08000/08666_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/08000/08666_hr.dat
+CD_08863.jpg,8863,CD,M,83,CS-12,1992,https://physionet.org/files/ptb-xl/1.0.3/records500/08000/08863_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/08000/08863_hr.dat
+MI_08924.jpg,8924,MI,F,76,AT-6 C 5.5,1992,https://physionet.org/files/ptb-xl/1.0.3/records500/08000/08924_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/08000/08924_hr.dat
+MI_09054.jpg,9054,MI,F,61,AT-6 C 5.5,1992,https://physionet.org/files/ptb-xl/1.0.3/records500/09000/09054_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/09000/09054_hr.dat
+CD_09087.jpg,9087,CD,F,50,CS-12,1992,https://physionet.org/files/ptb-xl/1.0.3/records500/09000/09087_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/09000/09087_hr.dat
+CD_09287.jpg,9287,CD,M,31,CS-12   E,1992,https://physionet.org/files/ptb-xl/1.0.3/records500/09000/09287_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/09000/09287_hr.dat
+CD_09349.jpg,9349,CD,M,34,CS-12   E,1992,https://physionet.org/files/ptb-xl/1.0.3/records500/09000/09349_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/09000/09349_hr.dat
+HYP_09801.jpg,9801,HYP,M,57,AT-6 C 5.5,1993,https://physionet.org/files/ptb-xl/1.0.3/records500/09000/09801_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/09000/09801_hr.dat
+NORM_10000.jpg,10000,NORM,F,45,AT-6     6,1993,https://physionet.org/files/ptb-xl/1.0.3/records500/10000/10000_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/10000/10000_hr.dat
+CD_10234.jpg,10234,CD,M,67,CS-12,1993,https://physionet.org/files/ptb-xl/1.0.3/records500/10000/10234_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/10000/10234_hr.dat
+STTC_10263.jpg,10263,STTC,M,71,CS-12,1993,https://physionet.org/files/ptb-xl/1.0.3/records500/10000/10263_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/10000/10263_hr.dat
+NORM_10492.jpg,10492,NORM,M,65,AT-6 C 5.5,1993,https://physionet.org/files/ptb-xl/1.0.3/records500/10000/10492_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/10000/10492_hr.dat
+CD_10709.jpg,10709,CD,M,64,AT-6     6,1993,https://physionet.org/files/ptb-xl/1.0.3/records500/10000/10709_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/10000/10709_hr.dat
+HYP_10907.jpg,10907,HYP,F,69,AT-6 C 5.5,1993,https://physionet.org/files/ptb-xl/1.0.3/records500/10000/10907_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/10000/10907_hr.dat
+STTC_11674.jpg,11674,STTC,M,73,AT-60    3,1994,https://physionet.org/files/ptb-xl/1.0.3/records500/11000/11674_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/11000/11674_hr.dat
+MI_11881.jpg,11881,MI,F,76,AT-6 C,1994,https://physionet.org/files/ptb-xl/1.0.3/records500/11000/11881_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/11000/11881_hr.dat
+HYP_12122.jpg,12122,HYP,F,76,AT-6 C 5.5,1994,https://physionet.org/files/ptb-xl/1.0.3/records500/12000/12122_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/12000/12122_hr.dat
+STTC_12203.jpg,12203,STTC,F,61,AT-60    3,1994,https://physionet.org/files/ptb-xl/1.0.3/records500/12000/12203_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/12000/12203_hr.dat
+HYP_12248.jpg,12248,HYP,M,70,AT-60    3,1994,https://physionet.org/files/ptb-xl/1.0.3/records500/12000/12248_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/12000/12248_hr.dat
+STTC_12662.jpg,12662,STTC,M,81,CS-12,1994,https://physionet.org/files/ptb-xl/1.0.3/records500/12000/12662_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/12000/12662_hr.dat
+HYP_12970.jpg,12970,HYP,M,55,CS-12,1994,https://physionet.org/files/ptb-xl/1.0.3/records500/12000/12970_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/12000/12970_hr.dat
+STTC_13592.jpg,13592,STTC,F,19,CS-12   E,1995,https://physionet.org/files/ptb-xl/1.0.3/records500/13000/13592_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/13000/13592_hr.dat
+CD_13820.jpg,13820,CD,F,81,AT-60    3,1995,https://physionet.org/files/ptb-xl/1.0.3/records500/13000/13820_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/13000/13820_hr.dat
+MI_13994.jpg,13994,MI,F,85,AT-6     6,1995,https://physionet.org/files/ptb-xl/1.0.3/records500/13000/13994_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/13000/13994_hr.dat
+NORM_14002.jpg,14002,NORM,F,86,AT-6     6,1995,https://physionet.org/files/ptb-xl/1.0.3/records500/14000/14002_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/14000/14002_hr.dat
+MI_14202.jpg,14202,MI,F,43,CS-12,1995,https://physionet.org/files/ptb-xl/1.0.3/records500/14000/14202_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/14000/14202_hr.dat
+CD_14888.jpg,14888,CD,F,80,CS-12,1995,https://physionet.org/files/ptb-xl/1.0.3/records500/14000/14888_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/14000/14888_hr.dat
+MI_14962.jpg,14962,MI,F,81,AT-6 C 5.5,1995,https://physionet.org/files/ptb-xl/1.0.3/records500/14000/14962_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/14000/14962_hr.dat
+NORM_15202.jpg,15202,NORM,M,42,CS-12,1995,https://physionet.org/files/ptb-xl/1.0.3/records500/15000/15202_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/15000/15202_hr.dat
+MI_15239.jpg,15239,MI,F,52,CS-12,1995,https://physionet.org/files/ptb-xl/1.0.3/records500/15000/15239_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/15000/15239_hr.dat
+NORM_15552.jpg,15552,NORM,M,41,CS-12,1996,https://physionet.org/files/ptb-xl/1.0.3/records500/15000/15552_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/15000/15552_hr.dat
+NORM_15677.jpg,15677,NORM,M,18,CS-12   E,1996,https://physionet.org/files/ptb-xl/1.0.3/records500/15000/15677_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/15000/15677_hr.dat
+CD_15899.jpg,15899,CD,F,51,CS-12   E,1996,https://physionet.org/files/ptb-xl/1.0.3/records500/15000/15899_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/15000/15899_hr.dat
+MI_16311.jpg,16311,MI,M,82,CS-12,1996,https://physionet.org/files/ptb-xl/1.0.3/records500/16000/16311_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/16000/16311_hr.dat
+NORM_16334.jpg,16334,NORM,M,53,AT-6     6,1996,https://physionet.org/files/ptb-xl/1.0.3/records500/16000/16334_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/16000/16334_hr.dat
+HYP_16377.jpg,16377,HYP,F,56,AT-6 C 5.8,1996,https://physionet.org/files/ptb-xl/1.0.3/records500/16000/16377_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/16000/16377_hr.dat
+HYP_16383.jpg,16383,HYP,M,72,AT-6 C 5.5,1996,https://physionet.org/files/ptb-xl/1.0.3/records500/16000/16383_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/16000/16383_hr.dat
+HYP_17160.jpg,17160,HYP,M,73,CS100    3,1996,https://physionet.org/files/ptb-xl/1.0.3/records500/17000/17160_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/17000/17160_hr.dat
+NORM_17543.jpg,17543,NORM,F,83,AT-6 C 5.5,1997,https://physionet.org/files/ptb-xl/1.0.3/records500/17000/17543_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/17000/17543_hr.dat
+CD_17546.jpg,17546,CD,F,67,AT-6 C 5.5,1997,https://physionet.org/files/ptb-xl/1.0.3/records500/17000/17546_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/17000/17546_hr.dat
+STTC_17716.jpg,17716,STTC,M,76,AT-6 C 5.5,1997,https://physionet.org/files/ptb-xl/1.0.3/records500/17000/17716_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/17000/17716_hr.dat
+MI_17930.jpg,17930,MI,M,82,CS-12,1997,https://physionet.org/files/ptb-xl/1.0.3/records500/17000/17930_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/17000/17930_hr.dat
+CD_17999.jpg,17999,CD,F,75,AT-6     6,1997,https://physionet.org/files/ptb-xl/1.0.3/records500/17000/17999_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/17000/17999_hr.dat
+HYP_18190.jpg,18190,HYP,M,57,AT-6     6,1997,https://physionet.org/files/ptb-xl/1.0.3/records500/18000/18190_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/18000/18190_hr.dat
+CD_18396.jpg,18396,CD,F,75,CS-12,1997,https://physionet.org/files/ptb-xl/1.0.3/records500/18000/18396_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/18000/18396_hr.dat
+HYP_18776.jpg,18776,HYP,M,35,CS-12,1997,https://physionet.org/files/ptb-xl/1.0.3/records500/18000/18776_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/18000/18776_hr.dat
+STTC_18849.jpg,18849,STTC,F,44,CS-12   E,1997,https://physionet.org/files/ptb-xl/1.0.3/records500/18000/18849_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/18000/18849_hr.dat
+NORM_19136.jpg,19136,NORM,M,19,CS-12   E,1998,https://physionet.org/files/ptb-xl/1.0.3/records500/19000/19136_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/19000/19136_hr.dat
+STTC_19262.jpg,19262,STTC,M,60,CS-12,1998,https://physionet.org/files/ptb-xl/1.0.3/records500/19000/19262_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/19000/19262_hr.dat
+MI_19321.jpg,19321,MI,M,69,CS-12,1998,https://physionet.org/files/ptb-xl/1.0.3/records500/19000/19321_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/19000/19321_hr.dat
+MI_19606.jpg,19606,MI,F,75,CS-12,1998,https://physionet.org/files/ptb-xl/1.0.3/records500/19000/19606_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/19000/19606_hr.dat
+CD_19702.jpg,19702,CD,F,69,CS-12,1998,https://physionet.org/files/ptb-xl/1.0.3/records500/19000/19702_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/19000/19702_hr.dat
+CD_19852.jpg,19852,CD,M,41,CS-12   E,1998,https://physionet.org/files/ptb-xl/1.0.3/records500/19000/19852_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/19000/19852_hr.dat
+CD_19917.jpg,19917,CD,F,84,CS-12,1998,https://physionet.org/files/ptb-xl/1.0.3/records500/19000/19917_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/19000/19917_hr.dat
+STTC_20169.jpg,20169,STTC,F,84,AT-60    3,1999,https://physionet.org/files/ptb-xl/1.0.3/records500/20000/20169_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/20000/20169_hr.dat
+STTC_20567.jpg,20567,STTC,F,85,CS-12,1999,https://physionet.org/files/ptb-xl/1.0.3/records500/20000/20567_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/20000/20567_hr.dat
+NORM_20705.jpg,20705,NORM,M,83,AT-60    3,1999,https://physionet.org/files/ptb-xl/1.0.3/records500/20000/20705_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/20000/20705_hr.dat
+MI_20908.jpg,20908,MI,F,85,AT-60    3,1999,https://physionet.org/files/ptb-xl/1.0.3/records500/20000/20908_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/20000/20908_hr.dat
+CD_21011.jpg,21011,CD,F,59,CS-12,2000,https://physionet.org/files/ptb-xl/1.0.3/records500/21000/21011_hr.hea,https://physionet.org/files/ptb-xl/1.0.3/records500/21000/21011_hr.dat
